@@ -4,6 +4,8 @@ I took the original source code from the repository [ComfyUI_ACE-Step](https://g
 
 For music generation, the original nodes from the package [ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step) are required.
 
+This code has been imlemented to the original repository [ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step)
+
 ![comfy-ace-step](https://github.com/thezveroboy/ComfyUI_ACE-Step-zveroboy/blob/main/nodes.jpg)
 
 # Description
