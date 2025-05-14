@@ -1,0 +1,14 @@
+[project]
+name = "ace-step-zveroboy"
+description = "I took the original source code from the repository [a/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step) and modified it to make the model loading explicit instead of hidden."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/thezveroboy/ComfyUI_ACE-Step-zveroboy"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_ACE-Step-zveroboy"
+Icon = ""
